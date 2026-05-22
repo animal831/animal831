@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋 I'm Sailendra Neelam
 
-<!--
-**animal831/animal831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | MERN Stack Enthusiast | Problem Solver
 
-Here are some ideas to get you started:
+I’m passionate about building scalable web applications and modern user experiences using JavaScript technologies.
+Currently focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ⚡ Full Stack Development (MongoDB, Express.js, React, Node.js)
+* 🔐 JWT Authentication & Google OAuth
+* 💬 Real-time Chat Applications with Socket.io
+* 🎨 Responsive UI/UX with React & Tailwind CSS
+* 🌍 Building community-driven platforms like Uni-Connect
+
+I enjoy learning new technologies, solving real-world problems, and creating impactful applications.
+
+### Tech Stack
+
+* Frontend: React, Tailwind CSS, JavaScript
+* Backend: Node.js, Express.js
+* Database: MongoDB, Supabase
+* Tools: Git, GitHub, Postman, VS Code
+
+📫 Always open to collaboration and exciting projects!
